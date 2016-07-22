@@ -8,7 +8,7 @@ Time spent: **32** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='ss.png'/>
+<img src='http://i.imgur.com/o4gTrs2.png'/>
 
 ## License
 
